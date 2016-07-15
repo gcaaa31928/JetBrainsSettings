@@ -737,11 +737,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HTML_TAG">
-      <value />
-    </option>
     <option name="HTML_TAG_NAME">
       <value>
+        <option name="FOREGROUND" value="e3e3ff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1217,6 +1215,12 @@
     <option name="RUBY_LINE_CONTINUATION">
       <value>
         <option name="FOREGROUND" value="f92672" />
+      </value>
+    </option>
+    <option name="RUBY_LOCAL_VAR_ID">
+      <value>
+        <option name="FOREGROUND" value="907b59" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_METHOD_NAME">
