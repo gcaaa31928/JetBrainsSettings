@@ -848,6 +848,12 @@
         <option name="BACKGROUND" value="423535" />
       </value>
     </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="359756" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
         <option name="FOREGROUND" value="979748" />
@@ -1099,11 +1105,6 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
-    <option name="REST.BOLD">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="REST.EXPLICIT">
       <value>
         <option name="FOREGROUND" value="f92672" />
@@ -1127,11 +1128,6 @@
     <option name="REST.INTERPRETED">
       <value>
         <option name="BACKGROUND" value="4d5d3d" />
-      </value>
-    </option>
-    <option name="REST.ITALIC">
-      <value>
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="REST.LINE_COMMENT">
@@ -1173,12 +1169,6 @@
     <option name="RUBY_EXPR_IN_STRING">
       <value>
         <option name="FOREGROUND" value="e6db74" />
-      </value>
-    </option>
-    <option name="RUBY_GVAR">
-      <value>
-        <option name="FOREGROUND" value="6da35e" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_HASH_ASSOC">
@@ -1226,12 +1216,6 @@
     <option name="RUBY_METHOD_NAME">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
-      </value>
-    </option>
-    <option name="RUBY_NTH_REF">
-      <value>
-        <option name="FOREGROUND" value="4e7697" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_NUMBER">
