@@ -520,6 +520,11 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
+    <option name="DEFAULT_TAG">
+      <value>
+        <option name="BACKGROUND" value="324e25" />
+      </value>
+    </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
