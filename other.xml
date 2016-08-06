@@ -48,41 +48,7 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
-  </component>
-  <component name="PyTestFrameworkService">
-    <option name="SDK_TO_PYTEST">
-      <map>
-        <entry key="C:\Python27\python.exe" value="false" />
-        <entry key="C:\Users\Red\AppData\Local\Programs\Python\Python35-32\python.exe" value="false" />
-        <entry key="C:\Work\ChatterLearning\venv\Scripts\python.exe" value="false" />
-        <entry key="C:\Work\LineBot\venv\Scripts\python.exe" value="false" />
-        <entry key="C:\Work\Nerual\venv\Scripts\python.exe" value="false" />
-        <entry key="G:\Projects\DeviceManagementSystem\venv\Scripts\python.exe" value="false" />
-        <entry key="G:\Python27\python.exe" value="true" />
-      </map>
-    </option>
-    <option name="SDK_TO_NOSETEST">
-      <map>
-        <entry key="C:\Python27\python.exe" value="false" />
-        <entry key="C:\Users\Red\AppData\Local\Programs\Python\Python35-32\python.exe" value="false" />
-        <entry key="C:\Work\ChatterLearning\venv\Scripts\python.exe" value="false" />
-        <entry key="C:\Work\LineBot\venv\Scripts\python.exe" value="false" />
-        <entry key="C:\Work\Nerual\venv\Scripts\python.exe" value="false" />
-        <entry key="G:\Projects\DeviceManagementSystem\venv\Scripts\python.exe" value="false" />
-        <entry key="G:\Python27\python.exe" value="false" />
-      </map>
-    </option>
-    <option name="SDK_TO_ATTEST">
-      <map>
-        <entry key="C:\Python27\python.exe" value="false" />
-        <entry key="C:\Users\Red\AppData\Local\Programs\Python\Python35-32\python.exe" value="false" />
-        <entry key="C:\Work\ChatterLearning\venv\Scripts\python.exe" value="false" />
-        <entry key="C:\Work\LineBot\venv\Scripts\python.exe" value="false" />
-        <entry key="C:\Work\Nerual\venv\Scripts\python.exe" value="false" />
-        <entry key="G:\Projects\DeviceManagementSystem\venv\Scripts\python.exe" value="false" />
-        <entry key="G:\Python27\python.exe" value="false" />
-      </map>
-    </option>
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/6.2.1/bin/node" />
   </component>
 </application>
