@@ -2363,7 +2363,7 @@
         <entry key="Flappy" value="" />
         <entry key="FlashCardQuiz" value="" />
         <entry key="FlashMessage" value="" />
-        <entry key="Flask" value="" />
+        <entry key="Flask" value="0.11.1" />
         <entry key="Flask-ACL" value="" />
         <entry key="Flask-API" value="" />
         <entry key="Flask-API-Utils" value="" />
@@ -4556,7 +4556,7 @@
         <entry key="MarkovNetwork" value="" />
         <entry key="MarkovPy" value="" />
         <entry key="MarkovText" value="" />
-        <entry key="MarkupSafe" value="" />
+        <entry key="MarkupSafe" value="0.23" />
         <entry key="Markups" value="" />
         <entry key="Marmir" value="" />
         <entry key="Marnadi" value="" />
@@ -20285,7 +20285,7 @@
         <entry key="contextdecorator" value="" />
         <entry key="contexter" value="" />
         <entry key="contextio" value="" />
-        <entry key="contextlib2" value="" />
+        <entry key="contextlib2" value="0.5.4" />
         <entry key="contextlog" value="" />
         <entry key="contextminer" value="" />
         <entry key="contexttimer" value="" />
@@ -22498,7 +22498,7 @@
         <entry key="decorated" value="" />
         <entry key="decorating" value="" />
         <entry key="decorative" value="" />
-        <entry key="decorator" value="" />
+        <entry key="decorator" value="4.0.10" />
         <entry key="decorator-args" value="" />
         <entry key="decorators" value="" />
         <entry key="decoroute" value="" />
@@ -33817,7 +33817,7 @@
         <entry key="eventity" value="" />
         <entry key="eventize" value="" />
         <entry key="eventize-expect" value="" />
-        <entry key="eventlet" value="" />
+        <entry key="eventlet" value="0.19.0" />
         <entry key="eventlet_inotifyx" value="" />
         <entry key="eventlet_log" value="" />
         <entry key="eventlib" value="" />
@@ -36610,7 +36610,7 @@
         <entry key="funcomp" value="" />
         <entry key="funconf" value="" />
         <entry key="funcparserlib" value="" />
-        <entry key="funcsigs" value="" />
+        <entry key="funcsigs" value="1.0.2" />
         <entry key="functable" value="" />
         <entry key="functastic" value="" />
         <entry key="functest" value="" />
@@ -36693,7 +36693,7 @@
         <entry key="fut14" value="" />
         <entry key="fut14analysis" value="" />
         <entry key="futen" value="" />
-        <entry key="future" value="" />
+        <entry key="future" value="0.15.2" />
         <entry key="future_value" value="" />
         <entry key="futurefinity" value="" />
         <entry key="futuregrid" value="" />
@@ -38759,7 +38759,7 @@
         <entry key="gpsdio-sort" value="" />
         <entry key="gpsdshm" value="" />
         <entry key="gpsimage" value="" />
-        <entry key="gpsoauth" value="" />
+        <entry key="gpsoauth" value="0.3.0" />
         <entry key="gpsparser" value="" />
         <entry key="gpssim" value="" />
         <entry key="gpt" value="" />
@@ -38771,7 +38771,7 @@
         <entry key="gpx2spatialite" value="" />
         <entry key="gpxcat" value="" />
         <entry key="gpxdata" value="" />
-        <entry key="gpxpy" value="" />
+        <entry key="gpxpy" value="1.1.1" />
         <entry key="gpxtools" value="" />
         <entry key="gpxutils" value="" />
         <entry key="gq" value="" />
@@ -38998,7 +38998,7 @@
         <entry key="greenify" value="" />
         <entry key="greenio" value="" />
         <entry key="greenish" value="" />
-        <entry key="greenlet" value="" />
+        <entry key="greenlet" value="0.4.10" />
         <entry key="greenlet_tornado" value="" />
         <entry key="greenlight" value="" />
         <entry key="greennet" value="" />
@@ -43234,7 +43234,7 @@
         <entry key="jctnnester" value="" />
         <entry key="jcvi" value="" />
         <entry key="jdate" value="" />
-        <entry key="jdatetime" value="" />
+        <entry key="jdatetime" value="1.8.1" />
         <entry key="jdbm" value="" />
         <entry key="jdcal" value="" />
         <entry key="jdhp-distutils-demo" value="" />
@@ -49984,7 +49984,7 @@
         <entry key="mochad_dispatch" value="" />
         <entry key="mochi" value="" />
         <entry key="mochikernel" value="" />
-        <entry key="mock" value="" />
+        <entry key="mock" value="2.0.0" />
         <entry key="mock-chroot" value="" />
         <entry key="mock-django" value="" />
         <entry key="mock-neomodel" value="" />
@@ -58555,7 +58555,7 @@
         <entry key="polygamy" value="" />
         <entry key="polyglot" value="" />
         <entry key="polygonmeshtools" value="" />
-        <entry key="polyline" value="" />
+        <entry key="polyline" value="1.3.1" />
         <entry key="polyline-decoder" value="" />
         <entry key="polylx" value="" />
         <entry key="polymaze" value="" />
@@ -59436,10 +59436,10 @@
         <entry key="proto-google-datastore-v1" value="" />
         <entry key="proto-google-datastore-v1beta3" value="" />
         <entry key="protobix" value="" />
-        <entry key="protobuf" value="" />
+        <entry key="protobuf" value="3.0.0" />
         <entry key="protobuf-py3" value="" />
         <entry key="protobuf-setuptools" value="" />
-        <entry key="protobuf-to-dict" value="" />
+        <entry key="protobuf-to-dict" value="0.1.0" />
         <entry key="protobuf.socketrpc" value="" />
         <entry key="protobuf3" value="" />
         <entry key="protobuf3-to-dict" value="" />
@@ -62745,7 +62745,7 @@
         <entry key="pylatexenc" value="" />
         <entry key="pylazy" value="" />
         <entry key="pylcdui" value="" />
-        <entry key="pyldap" value="" />
+        <entry key="pyldap" value="2.4.25.1" />
         <entry key="pyldaplite" value="" />
         <entry key="pyldfire" value="" />
         <entry key="pyldpc" value="" />
@@ -66440,7 +66440,7 @@
         <entry key="python-social-auth" value="" />
         <entry key="python-social-auth-waveapps" value="" />
         <entry key="python-socialtext" value="" />
-        <entry key="python-socketio" value="" />
+        <entry key="python-socketio" value="1.4.4" />
         <entry key="python-socketlistener" value="" />
         <entry key="python-sol" value="" />
         <entry key="python-solar" value="" />
@@ -68332,7 +68332,7 @@
         <entry key="raumfeld" value="" />
         <entry key="rauth" value="" />
         <entry key="ravello-sdk" value="" />
-        <entry key="raven" value="" />
+        <entry key="raven" value="5.24.3" />
         <entry key="raven-aiohttp" value="" />
         <entry key="raven-bash" value="" />
         <entry key="raven-cron" value="" />
@@ -70856,7 +70856,7 @@
         <entry key="s2aiomulti" value="" />
         <entry key="s2p" value="" />
         <entry key="s2scm" value="" />
-        <entry key="s2sphere" value="" />
+        <entry key="s2sphere" value="0.2.4" />
         <entry key="s3" value="" />
         <entry key="s3-backups" value="" />
         <entry key="s3-deploy-website" value="" />
@@ -74345,7 +74345,7 @@
         <entry key="socket-gatekeeper" value="" />
         <entry key="socket.io-announce" value="" />
         <entry key="socket.io-emitter" value="" />
-        <entry key="socketIO-client" value="" />
+        <entry key="socketIO-client" value="0.7.0" />
         <entry key="socketIO-client-2" value="" />
         <entry key="socket_executor" value="" />
         <entry key="socketcache" value="" />
@@ -78786,7 +78786,7 @@
         <entry key="timemachine" value="" />
         <entry key="timemonitor" value="" />
         <entry key="timeout" value="" />
-        <entry key="timeout-decorator" value="" />
+        <entry key="timeout-decorator" value="0.3.2" />
         <entry key="timeout-urllib2" value="" />
         <entry key="timeout_wrapper" value="" />
         <entry key="timeoutcontext" value="" />
@@ -82594,7 +82594,7 @@
         <entry key="virtualchain" value="" />
         <entry key="virtualdc" value="" />
         <entry key="virtualecologist" value="" />
-        <entry key="virtualenv" value="" />
+        <entry key="virtualenv" value="15.0.3" />
         <entry key="virtualenv-activator" value="" />
         <entry key="virtualenv-api" value="" />
         <entry key="virtualenv-bin" value="" />
@@ -83588,7 +83588,7 @@
         <entry key="webskine" value="" />
         <entry key="websnort" value="" />
         <entry key="websocket" value="" />
-        <entry key="websocket-client" value="" />
+        <entry key="websocket-client" value="0.37.0" />
         <entry key="websocket-client-py3" value="" />
         <entry key="websocket-server" value="" />
         <entry key="websocket_redis" value="" />
