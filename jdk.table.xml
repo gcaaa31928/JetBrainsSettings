@@ -1,111 +1,244 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="ruby-2.0.0-p648" />
-      <type value="RUBY_SDK" />
-      <version value="ver.2.0.0p648 ( revision 53162) p648" />
-      <homePath value="/usr/bin/ruby" />
+      <name value="Python 3.5.1 (C:\Users\Red\AppData\Local\Programs\Python\Python35-32\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="C:\Users\Red\AppData\Local\Programs\Python\Python35-32\python.exe" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file:///Library/Ruby/Site/2.0.0" />
-            <root type="simple" url="file:///Library/Ruby/Site/2.0.0/universal-darwin15" />
-            <root type="simple" url="file:///Library/Ruby/Site" />
-            <root type="simple" url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby/2.0.0" />
-            <root type="simple" url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby/2.0.0/universal-darwin15" />
-            <root type="simple" url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0" />
-            <root type="simple" url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/universal-darwin15" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs20" />
+            <root type="simple" url="jar://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/thrift-0.9.3-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/2084048601" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
           </root>
         </classPath>
         <sourcePath>
-          <root type="composite">
-            <root type="simple" url="file:///Library/Ruby/Site/2.0.0" />
-            <root type="simple" url="file:///Library/Ruby/Site/2.0.0/universal-darwin15" />
-            <root type="simple" url="file:///Library/Ruby/Site" />
-            <root type="simple" url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby/2.0.0" />
-            <root type="simple" url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby/2.0.0/universal-darwin15" />
-            <root type="simple" url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0" />
-            <root type="simple" url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/universal-darwin15" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs20" />
-          </root>
+          <root type="composite" />
         </sourcePath>
       </roots>
-      <additional NORMALIZED_VERSION_STRING="ver.2.0.0p648 ( revision 53162) p648" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="/usr/bin" />
+      <additional />
     </jdk>
     <jdk version="2">
-      <name value="RVM: ruby-2.3.1" />
-      <type value="RUBY_SDK" />
-      <version value="ver.2.3.1p112 ( revision 54768) p112" />
-      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin/ruby" />
+      <name value="Python 3.5.1 virtualenv at C:\Work\Nerual\venv\venv2" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="C:\Work\Nerual\venv\venv2\Scripts\python.exe" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+            <root type="simple" url="jar://C:/Work/Nerual/venv/venv2/Lib/site-packages/setuptools-18.1-py3.5.egg!/" />
+            <root type="simple" url="file://C:/Work/Nerual/venv/venv2/Lib/site-packages/pip-7.1.0-py3.5.egg" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32" />
+            <root type="simple" url="file://C:/Work/Nerual/venv/venv2" />
+            <root type="simple" url="file://C:/Work/Nerual/venv/venv2/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/-63558673" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
           </root>
         </classPath>
         <sourcePath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
-          </root>
+          <root type="composite" />
         </sourcePath>
       </roots>
-      <additional NORMALIZED_VERSION_STRING="ver.2.3.1p112 ( revision 54768) p112" IS_RVM_SDK="true" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin" />
+      <additional ASSOCIATED_PROJECT_PATH="C:/Work/Nerual/app" />
     </jdk>
     <jdk version="2">
-      <name value="RVM: ruby-2.3.1 [global]" />
-      <type value="RUBY_SDK" />
-      <version value="ver.2.3.1p112 ( revision 54768) p112" />
-      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin/ruby" />
+      <name value="Python 3.5.1 virtualenv at C:\Work\Nerual\venv" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="C:\Work\Nerual\venv\Scripts\python.exe" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/lib" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32" />
+            <root type="simple" url="file://C:/Work/Nerual/venv" />
+            <root type="simple" url="file://C:/Work/Nerual/venv/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/-1713215813" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
           </root>
         </classPath>
         <sourcePath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/lib" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
-          </root>
+          <root type="composite" />
         </sourcePath>
       </roots>
-      <additional NORMALIZED_VERSION_STRING="ver.2.3.1p112 ( revision 54768) p112" IS_RVM_SDK="true" RVM_GEMSET_NAME="global" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin" />
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 (C:\Python27\python2.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="C:\Python27\python2.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Python27/DLLs" />
+            <root type="simple" url="file://C:/Python27/Lib" />
+            <root type="simple" url="file://C:/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Python27" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/2144424164" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 (C:\Python27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="C:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Python27/Lib/site-packages/line-0.8.0-py2.7.egg!/" />
+            <root type="simple" url="jar://C:/Python27/Lib/site-packages/rsa-3.4-py2.7.egg!/" />
+            <root type="simple" url="jar://C:/Python27/Lib/site-packages/curve-0.1.0-py2.7.egg!/" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages/requests-2.9.1-py2.7.egg" />
+            <root type="simple" url="jar://C:/Python27/Lib/site-packages/pyasn1-0.1.9-py2.7.egg!/" />
+            <root type="simple" url="jar://C:/Python27/Lib/site-packages/thrift-0.9.3-py2.7.egg!/" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages/virtualenv-15.0.1-py2.7.egg" />
+            <root type="simple" url="file://C:/Python27/DLLs" />
+            <root type="simple" url="file://C:/Python27/Lib" />
+            <root type="simple" url="file://C:/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Python27" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/-762174762" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 virtualenv at C:\Work\ChatterLearning\venv" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="C:\Work\ChatterLearning\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Work/ChatterLearning/venv/Lib" />
+            <root type="simple" url="file://C:/Work/ChatterLearning/venv/Scripts" />
+            <root type="simple" url="file://C:/Python27/Lib" />
+            <root type="simple" url="file://C:/Python27/DLLs" />
+            <root type="simple" url="file://C:/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Work/ChatterLearning/venv" />
+            <root type="simple" url="file://C:/Work/ChatterLearning/venv/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/-604806767" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 virtualenv at C:\Work\LineBot\venv" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="C:\Work\LineBot\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Work/LineBot/venv/Lib" />
+            <root type="simple" url="file://C:/Work/LineBot/venv/Scripts" />
+            <root type="simple" url="file://C:/Python27/Lib" />
+            <root type="simple" url="file://C:/Python27/DLLs" />
+            <root type="simple" url="file://C:/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Work/LineBot/venv" />
+            <root type="simple" url="file://C:/Work/LineBot/venv/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/-1805153091" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 (G:\Python27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="G:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://G:/Python27/Lib/site-packages/androidviewclient-11.5.3-py2.7.egg" />
+            <root type="simple" url="file://G:/Python27/Lib/site-packages/requests-2.10.0-py2.7.egg" />
+            <root type="simple" url="file://G:/Python27/DLLs" />
+            <root type="simple" url="file://G:/Python27/Lib" />
+            <root type="simple" url="file://G:/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://G:/Python27" />
+            <root type="simple" url="file://G:/Python27/Lib/site-packages" />
+            <root type="simple" url="file://G:/Python27/Lib/site-packages/win32" />
+            <root type="simple" url="file://G:/Python27/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://G:/Python27/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/-324465326" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 (G:\Python27\python.exe) (1)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="G:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 virtualenv at G:\Projects\DeviceManagementSystem\venv" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="G:\Projects\DeviceManagementSystem\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32" />
+            <root type="simple" url="file://G:/Projects/DeviceManagementSystem/venv" />
+            <root type="simple" url="file://G:/Projects/DeviceManagementSystem/venv/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/-1194509167" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
     </jdk>
   </component>
 </application>
