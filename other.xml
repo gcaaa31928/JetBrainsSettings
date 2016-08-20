@@ -55,4 +55,21 @@
       <version-cache version="6.2.1" last-modified="1464904443000" />
     </local-interpreter>
   </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.pyenv/versions/3.5.1/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.pyenv/versions/3.5.1/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="$USER_HOME$/.pyenv/versions/3.5.1/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
