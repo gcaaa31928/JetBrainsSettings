@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateAndroidMonitorToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
@@ -14,6 +18,21 @@
   <action id="PreviousProjectWindow" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>

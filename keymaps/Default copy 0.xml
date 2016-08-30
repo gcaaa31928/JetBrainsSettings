@@ -1,0 +1,10 @@
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
+  </action>
+  <action id="NextProjectWindow" />
+  <action id="PreviousProjectWindow" />
+</keymap>
