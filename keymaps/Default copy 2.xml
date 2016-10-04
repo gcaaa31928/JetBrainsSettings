@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy 2" parent="$default">
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+</keymap>
