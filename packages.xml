@@ -56144,7 +56144,7 @@
         <entry key="nos-python-sdk" value="" />
         <entry key="nosango" value="" />
         <entry key="noscrapy" value="" />
-        <entry key="nose" value="" />
+        <entry key="nose" value="1.3.7" />
         <entry key="nose-alembic-attrib" value="" />
         <entry key="nose-alert" value="" />
         <entry key="nose-allure-plugin" value="" />
@@ -86994,7 +86994,7 @@
         <entry key="virtualchain" value="" />
         <entry key="virtualdc" value="" />
         <entry key="virtualecologist" value="" />
-        <entry key="virtualenv" value="" />
+        <entry key="virtualenv" value="15.0.3" />
         <entry key="virtualenv-activator" value="" />
         <entry key="virtualenv-api" value="" />
         <entry key="virtualenv-bin" value="" />
