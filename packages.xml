@@ -5842,7 +5842,7 @@
         <entry key="Pikabu_telegram_bot" value="" />
         <entry key="Pikzie" value="" />
         <entry key="Pil-Lite" value="" />
-        <entry key="Pillow" value="" />
+        <entry key="Pillow" value="3.4.2" />
         <entry key="Pillow-PIL" value="" />
         <entry key="Pillow-SIMD" value="" />
         <entry key="Pilot-Lib" value="" />
@@ -12544,7 +12544,7 @@
         <entry key="argopen" value="" />
         <entry key="argopt" value="" />
         <entry key="argos" value="" />
-        <entry key="argparse" value="" />
+        <entry key="argparse" value="1.4.0" />
         <entry key="argparse-oappend" value="" />
         <entry key="argparse-safe" value="" />
         <entry key="argparse.extra" value="" />
@@ -20713,7 +20713,7 @@
         <entry key="color_balance" value="" />
         <entry key="color_helpers" value="" />
         <entry key="color_transfer" value="" />
-        <entry key="colorama" value="" />
+        <entry key="colorama" value="0.3.7" />
         <entry key="colorbrewer" value="" />
         <entry key="colorcells" value="" />
         <entry key="colorclass" value="" />
@@ -24425,7 +24425,7 @@
         <entry key="dirs" value="" />
         <entry key="dirshare" value="" />
         <entry key="dirsnap" value="" />
-        <entry key="dirspec" value="" />
+        <entry key="dirspec" value="13.08" />
         <entry key="dirsync" value="" />
         <entry key="dirt" value="" />
         <entry key="dirtbike" value="" />
@@ -42787,7 +42787,7 @@
         <entry key="html5charref" value="" />
         <entry key="html5ever" value="" />
         <entry key="html5forms" value="" />
-        <entry key="html5lib" value="" />
+        <entry key="html5lib" value="1.0b10" />
         <entry key="html5lib-truncation" value="" />
         <entry key="html5print" value="" />
         <entry key="html5tidy" value="" />
@@ -49381,7 +49381,7 @@
         <entry key="locked-dict" value="" />
         <entry key="locket" value="" />
         <entry key="lockex" value="" />
-        <entry key="lockfile" value="" />
+        <entry key="lockfile" value="0.12.2" />
         <entry key="locknix" value="" />
         <entry key="lockpick" value="" />
         <entry key="lockserver" value="" />
@@ -59973,7 +59973,7 @@
         <entry key="pexcard" value="" />
         <entry key="pexdoc" value="" />
         <entry key="pexif" value="" />
-        <entry key="pexpect" value="" />
+        <entry key="pexpect" value="4.2.1" />
         <entry key="pexpect-nm" value="" />
         <entry key="pexpect-serial" value="" />
         <entry key="pexpect-u" value="" />
@@ -63793,7 +63793,7 @@
         <entry key="pyOSCapi" value="" />
         <entry key="pyOURSE" value="" />
         <entry key="pyOfx" value="" />
-        <entry key="pyOpenSSL" value="" />
+        <entry key="pyOpenSSL" value="16.2.0" />
         <entry key="pyOpsMap" value="" />
         <entry key="pyOptoSigma" value="" />
         <entry key="pyOutlook" value="" />
@@ -64803,7 +64803,7 @@
         <entry key="pyculiar" value="" />
         <entry key="pyculiarity" value="" />
         <entry key="pyculqi" value="" />
-        <entry key="pycups" value="" />
+        <entry key="pycups" value="1.9.73" />
         <entry key="pycure" value="" />
         <entry key="pycurl" value="7.43.0" />
         <entry key="pycurl2" value="" />
@@ -68074,7 +68074,7 @@
         <entry key="pyseqan" value="" />
         <entry key="pyseqfile" value="" />
         <entry key="pysequen" value="" />
-        <entry key="pyserial" value="" />
+        <entry key="pyserial" value="3.2.1" />
         <entry key="pyserial-asyncio" value="" />
         <entry key="pyserialize" value="" />
         <entry key="pyserializer" value="" />
@@ -68204,7 +68204,7 @@
         <entry key="pysmartcache" value="" />
         <entry key="pysmartclient" value="" />
         <entry key="pysmb" value="" />
-        <entry key="pysmbc" value="" />
+        <entry key="pysmbc" value="1.0.15.5" />
         <entry key="pysmbus" value="" />
         <entry key="pysmell" value="" />
         <entry key="pysmf" value="" />
@@ -72935,7 +72935,7 @@
         <entry key="reporters-db" value="" />
         <entry key="reportes_sic" value="" />
         <entry key="reporting" value="" />
-        <entry key="reportlab" value="" />
+        <entry key="reportlab" value="3.3.0" />
         <entry key="reportlogging" value="" />
         <entry key="reportportal-client" value="" />
         <entry key="reports" value="" />
@@ -88993,7 +88993,7 @@
         <entry key="wsgioauth.zodb" value="" />
         <entry key="wsgipreload" value="" />
         <entry key="wsgiprof" value="" />
-        <entry key="wsgiref" value="" />
+        <entry key="wsgiref" value="0.1.2" />
         <entry key="wsgireloader" value="" />
         <entry key="wsgiserialize" value="" />
         <entry key="wsgissi" value="" />
@@ -91159,7 +91159,7 @@
         <entry key="zope.i18n" value="" />
         <entry key="zope.i18nmessageid" value="" />
         <entry key="zope.index" value="" />
-        <entry key="zope.interface" value="" />
+        <entry key="zope.interface" value="4.3.2" />
         <entry key="zope.intid" value="" />
         <entry key="zope.introspector" value="" />
         <entry key="zope.introspectorui" value="" />
