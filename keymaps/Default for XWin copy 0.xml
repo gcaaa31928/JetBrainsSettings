@@ -8,14 +8,13 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
   </action>
-  <action id="HippieCompletion" />
   <action id="NextProjectWindow" />
   <action id="PreviousProjectWindow" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="alt slash" />
+    <keyboard-shortcut first-keystroke="altGraph slash" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
