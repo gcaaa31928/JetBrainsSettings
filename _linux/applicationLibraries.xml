@@ -268,6 +268,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/connection_pool-2.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="connection_pool (v2.2.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/connection_pool-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/connection_pool-2.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="coveralls (v0.8.15, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/coveralls-0.8.15/bin" />
@@ -1176,6 +1184,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-3.2.2/benchmarking" />
       </SOURCES>
     </library>
+    <library name="redis (v3.3.2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-3.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-3.3.2/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-3.3.2/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-3.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-3.3.2/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-3.3.2/benchmarking" />
+      </SOURCES>
+    </library>
     <library name="rspec-support (v3.4.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rspec-support-3.4.0/lib" />
@@ -1270,6 +1290,20 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sass-rails-5.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="sidekiq (v4.2.7, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sidekiq-4.2.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sidekiq-4.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sidekiq-4.2.7/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sidekiq-4.2.7/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sidekiq-4.2.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sidekiq-4.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sidekiq-4.2.7/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sidekiq-4.2.7/.github" />
       </SOURCES>
     </library>
     <library name="simplecov (v0.12.0, RVM: ruby-2.3.1) [gem]">
