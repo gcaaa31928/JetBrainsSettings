@@ -208,6 +208,10 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/builder-3.2.2/rakelib" />
       </SOURCES>
     </library>
+    <library name="bundle (v0.0.1, ruby-2.3.3-p222) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="bundler (v1.13.6, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.6/bin" />
@@ -234,6 +238,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/bundler-1.13.6/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/bundler-1.13.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/bundler-1.13.6/man" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v1.13.7, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/bundler-1.13.7/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/bundler-1.13.7/exe" />
+        <root url="file:///var/lib/gems/2.3.0/gems/bundler-1.13.7/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/bundler-1.13.7/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/bundler-1.13.7/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/bundler-1.13.7/exe" />
+        <root url="file:///var/lib/gems/2.3.0/gems/bundler-1.13.7/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/bundler-1.13.7/man" />
       </SOURCES>
     </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-2.3.1 [global]) [gem]">
