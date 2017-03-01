@@ -5,6 +5,7 @@
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern=".pypirc" type="PLAIN_TEXT" />
       <mapping ext="sgf" type="PLAIN_TEXT" />
+      <mapping ext="red-ms-7982" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
