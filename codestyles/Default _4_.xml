@@ -1,5 +1,4 @@
 <code_scheme name="Default (4)">
-  <option name="AUTODETECT_INDENTS" value="false" />
   <codeStyleSettings language="ruby">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
