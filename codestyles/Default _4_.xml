@@ -1,11 +1,8 @@
 <code_scheme name="Default (4)">
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
-  <codeStyleSettings language="CoffeeScript">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <codeStyleSettings language="ruby">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
