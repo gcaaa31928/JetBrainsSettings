@@ -1,4 +1,5 @@
 <code_scheme name="Default (4)">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <Objective-C-extensions>
     <option name="GENERATE_INSTANCE_VARIABLES_FOR_PROPERTIES" value="ASK" />
     <option name="RELEASE_STYLE" value="IVAR" />
@@ -33,10 +34,9 @@
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
-  <codeStyleSettings language="CoffeeScript">
+  <codeStyleSettings language="ruby">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
