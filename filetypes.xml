@@ -8,6 +8,8 @@
       <mapping ext="sgf" type="PLAIN_TEXT" />
       <mapping ext="red-ms-7982" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="npy" type="PLAIN_TEXT" />
+      <mapping ext="h5" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
