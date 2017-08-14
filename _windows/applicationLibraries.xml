@@ -170,12 +170,10 @@
     </library>
     <library name="bindex (v0.5.0, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.5.0" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/bindex-0.5.0/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/bindex-0.5.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.5.0" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/bindex-0.5.0/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/bindex-0.5.0/lib" />
       </SOURCES>
@@ -242,13 +240,11 @@
     </library>
     <library name="byebug (v9.0.6, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.0.6" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/byebug-9.0.6/bin" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/byebug-9.0.6/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/byebug-9.0.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.0.6" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/byebug-9.0.6/bin" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/byebug-9.0.6/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/byebug-9.0.6/lib" />
@@ -456,14 +452,12 @@
     </library>
     <library name="ffi (v1.9.18, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ffi-1.9.18-x64-mingw32/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ffi-1.9.18-x64-mingw32/gen" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ffi-1.9.18-x64-mingw32/lib" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ffi-1.9.18-x64-mingw32/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ffi-1.9.18-x64-mingw32/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ffi-1.9.18-x64-mingw32/gen" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ffi-1.9.18-x64-mingw32/lib" />
@@ -904,13 +898,11 @@
     </library>
     <library name="nio4r (v2.1.0, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/lib" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/lib" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/tasks" />
@@ -938,7 +930,6 @@
     </library>
     <library name="nokogiri (v1.8.0, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.0" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0-x64-mingw32/bin" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0-x64-mingw32/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0-x64-mingw32/lib" />
@@ -947,7 +938,6 @@
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0-x64-mingw32/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.0" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0-x64-mingw32/bin" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0-x64-mingw32/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0-x64-mingw32/lib" />
@@ -1016,7 +1006,6 @@
     </library>
     <library name="puma (v3.9.1, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.9.1" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/puma-3.9.1/bin" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/puma-3.9.1/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/puma-3.9.1/lib" />
@@ -1025,7 +1014,6 @@
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/puma-3.9.1/gemfiles" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.9.1" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/puma-3.9.1/bin" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/puma-3.9.1/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/puma-3.9.1/lib" />
@@ -1192,13 +1180,11 @@
     </library>
     <library name="rb-fsevent (v0.10.2, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/lib" />
@@ -1428,14 +1414,12 @@
     </library>
     <library name="sqlite3 (v1.3.13, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sqlite3/1.3.13" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sqlite3-1.3.13-x64-mingw32/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sqlite3-1.3.13-x64-mingw32/faq" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sqlite3-1.3.13-x64-mingw32/lib" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sqlite3-1.3.13-x64-mingw32/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sqlite3/1.3.13" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sqlite3-1.3.13-x64-mingw32/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sqlite3-1.3.13-x64-mingw32/faq" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sqlite3-1.3.13-x64-mingw32/lib" />
@@ -1678,12 +1662,10 @@
     </library>
     <library name="websocket-driver (v0.6.5, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/lib" />
       </SOURCES>
